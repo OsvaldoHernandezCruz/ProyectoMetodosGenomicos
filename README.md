@@ -9,8 +9,8 @@ Miércoles 14 a 17 horas
 
 Jueves 15 a 17 horas
 
-Lugar: Biblioteca de la FES Iztacala, UNAM
-Objetivo
+### Lugar: Biblioteca de la FES Iztacala, UNAM
+### *Objetivo*
 Esta clase tiene como objetivo la enseñanza de los diferentes lenguajes de programación para el análisis de datos genómicos usando linux, r y pyhthon.
 
 Temario
