@@ -27,7 +27,7 @@ Esta clase tiene como objetivo la enseñanza de los diferentes lenguajes de prog
 ## Dinámica de clase y evaluación
 Trabajo en clase y tareas 30%
 
-## Presentación de un proyecto bioinformático 70%. 35% será de un repositorio en github y 35% será la presentación en power point.
+Presentación de un proyecto bioinformático 70%. 35% será de un repositorio en github y 35% será la presentación en power point.
 
 Presentación-power point
 Marco Teórico
